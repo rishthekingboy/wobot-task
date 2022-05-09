@@ -1,4 +1,4 @@
-import "./App.css";
+import "./assets/styles/app.css";
 import wobotLogo from "./assets/img/wobot-logo.svg";
 import solidLines from "./assets/img/Solid_lines.svg";
 import Button from "./components/Button";
