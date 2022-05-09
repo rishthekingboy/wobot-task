@@ -1,0 +1,24 @@
+.selectBox select {
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  outline: none;
+  width: 100%;
+  color: #a0a0a0;
+  margin-top: 3px;
+}
+
+.selectBox label {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #545454;
+}

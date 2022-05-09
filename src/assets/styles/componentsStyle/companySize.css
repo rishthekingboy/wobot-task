@@ -1,0 +1,25 @@
+.sizes {
+  display: flex;
+  gap: 13px;
+  margin-top: 3px;
+  flex-wrap: wrap;
+}
+
+.size-option {
+  padding: 4px 8px;
+  text-align: center;
+  background: #f0f0f0;
+  border-radius: 2px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  cursor: pointer;
+  min-width: 30px;
+}
+
+.activeSize {
+  background: #3766e8;
+  color: #fff;
+}
